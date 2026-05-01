@@ -36,7 +36,7 @@ I'm trying to find that line by crossing it, repeatedly, in small experiments.
 ### Currently public
 
 - 🔬 [ai-autonomous-ops-research](https://github.com/lifeinpassion/ai-autonomous-ops-research) — the main research lab. New experiments weekly.
-- 📝 Blog:
+- 📝 Blog:https://billliang.substack.com
 - 𝕏: @
 
 ---
