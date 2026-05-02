@@ -11,7 +11,7 @@ I study what happens when you let AI agents actually run things — not as tools
 ### What I'm working on
 
 - **AI Autonomous Operations** — engineering patterns for systems where AI agents handle the full operational loop (decision → execution → iteration), with humans only in strategic positions.
-- **Self-Learning Mixture-of-Experts** — my PhD research on MoE for EEG signal processing. The same architectural ideas (specialization, routing, self-organization) translate directly to multi-agent AI systems.
+- **EEG Signal Processing** — my PhD research on EEG signal processing. The same architectural ideas (specialization, routing, self-organization) translate directly to multi-agent AI systems.
 - **Reservoir Computing × LLMs** — exploring whether reservoir-based components can replace or augment parts of transformer-based agents for more efficient autonomous decision-making.
 
 ### Where I come from
